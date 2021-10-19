@@ -32,7 +32,7 @@
     -->
 
     <project
-        name="/olderwei/filter.git"
+        name="olderwei/filter.git"
         group="android,rx"
         path="lib/filter"
         revision="master" />
